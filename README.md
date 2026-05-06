@@ -140,11 +140,7 @@ Model ini berhasil mencapai stabilitas dalam prediksi jangka menengah (24 jam).
 
 ## 👤 Penulis
 **Rifqi Zaghlul**
-- LinkedIn: [Tautan LinkedIn Anda]
-- Email: [Email Anda]
+- LinkedIn: [https://www.linkedin.com/in/rifqizaghlul]
+- Email: [rifqizaghlul1@gmail.com]
 
 ---
-
-### Tips untuk GitHub:
-1. **Tambahkan Folder `images/`**: Masukkan tangkapan layar grafik hasil prediksi atau arsitektur model dari notebook Anda, lalu panggil di README menggunakan format `![Alt Text](images/hasil_prediksi.png)`.
-2. **Deskripsi Singkat**: Jangan lupa mengisi kolom "About" di sebelah kanan halaman repositori GitHub Anda dengan judul versi bahasa Inggris yang singkat.
