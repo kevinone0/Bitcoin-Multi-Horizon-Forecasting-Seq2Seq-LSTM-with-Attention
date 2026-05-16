@@ -44,7 +44,7 @@ Proyek ini membandingkan beberapa arsitektur untuk mendapatkan hasil terbaik:
 
 ## 📈 Hasil & Evaluasi
 Model ini berhasil mencapai stabilitas dalam prediksi jangka menengah (24 jam). 
-*(Catatan: Anda dapat menyisipkan grafik loss atau plot prediksi hasil model Anda di sini untuk visualisasi yang lebih profesional).*
+![24-Hour Autoregressive Forecasting Evaluation](hasil-dalam-grafik.png)
 
 ## 📂 Struktur Repositori
 - `Rifqi_Zaghlul_Submission_Akhir_DLTM.ipynb`: Notebook utama berisi proses EDA hingga evaluasi.
